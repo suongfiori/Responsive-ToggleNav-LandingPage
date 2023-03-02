@@ -27,4 +27,4 @@ It is built using <br>
 ### Credits
 :arrow_right: This landing page Figma design was created by Gary Simon as part of his course ["From Figma to code"](https://scrimba.com/learn/figmatocode).
 
-:arrow_right: The React code is written by me - [Suong Fiori](https://github.com/suongfiori).
+:arrow_right: I built the app in Vanilla JS, then rebuilt it in React afterwards.
