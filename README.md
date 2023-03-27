@@ -3,7 +3,7 @@
 
 This is a "Dashboard" landing page with a menu navbar that can be toggled to show and hide. <br>
 
-View live [here](https://toggle-nav-landing-page.vercel.app)
+:arrow_forward: [Live Deployment Link](https://toggle-nav-landing-page.vercel.app)
 
 ### Technologies Used <br>
 
