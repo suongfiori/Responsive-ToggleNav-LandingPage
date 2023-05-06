@@ -11,9 +11,9 @@ This is a "Dashboard" landing page with a menu navbar that can be toggled to sho
  <br>
 
 ### Features
-:heavy_check_mark: A responsive design that works well on desktop, small tablets and mobile devices.
+:heavy_check_mark: Responsive design for desktop, small tablets and mobile devices.
 
-:heavy_check_mark: A toggle button that opens and closes the menu navbar on mobile view.
+:heavy_check_mark: Toggle button that opens and closes the menu navbar on mobile view.
 
 :heavy_check_mark: Smooth transitions and animations when the menu navbar is opened or closed.
 
