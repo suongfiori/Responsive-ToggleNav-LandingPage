@@ -17,7 +17,6 @@ This is a "Dashboard" landing page with a menu navbar that can be toggled to sho
 
 :heavy_check_mark: Smooth transitions and animations when the menu navbar is opened or closed.
 
-:heavy_check_mark: A clean and modern design that is easy to customize.
 
 ### Usage
 :arrow_right: To see this landing page, simply open the index.html file in your web browser. 
